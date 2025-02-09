@@ -1,0 +1,12 @@
+numpy
+visdom
+joblib
+librosa
+tqdm
+matplotlib
+scikit-learn
+pyyaml
+torch
+torchvision
+torchaudio
+tensorboard
