@@ -5,8 +5,8 @@
 ### Installation
 
 ```shell
-$ conda create -n dwp python=3.11
-$ conda activate dwp
+$ conda create -n mdw python=3.11
+$ conda activate mdw
 $ pip install -r requirements.txt
 $ python train.py
 ```
